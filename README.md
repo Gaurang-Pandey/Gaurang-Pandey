@@ -70,8 +70,8 @@ A fitness app that helps users achieve their health goals with personalized work
 ---
 
 ## 📫 Let's Connect  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaurangpandey04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaurang-pandey-3a0349257/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Gaurang-Pandey)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Gaurang-Pandey)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaurangpandey04@gmail.com)
 
 💡 Always open to collaborations and learning new things! Feel free to check out my work and connect. 🚀
