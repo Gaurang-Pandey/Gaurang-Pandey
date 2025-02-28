@@ -15,37 +15,62 @@ I'm a passionate developer who loves building scalable applications and solving 
 ---
 
 ## 🛠 Tech Stack  
-- **Languages:** Python, Java, JavaScript, C++, SQL  
-- **Frameworks & Tools:** React, React Native, Node.js, Express, Spring Boot, MongoDB, MySQL, Docker, Three.js  
-- **Platforms:** Linux, Windows, Web  
-- **Soft Skills:** Leadership, Teamwork, Problem-Solving, Communication  
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+
+### Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white)
+
+### Soft Skills
+- Leadership
+- Teamwork
+- Problem-Solving
+- Communication
 
 ---
 
 ## 🚀 Projects  
 ### 🛵 [Go Food](https://github.com/Gaurang-Pandey/GoFood)  
 A dynamic food delivery app with real-time order tracking and personalized recommendations.  
-**Tech Stack:** React, JavaScript, Node.js, MongoDB  
+**Tech Stack:** React, JavaScript, Node.js, MongoDB
 
 ### 🍽 [Eatables](https://github.com/Gaurang-Pandey/Eatables)  
 A recipe discovery website with powerful search and filtering options.  
-**Tech Stack:** JavaScript, HTML, CSS  
+**Tech Stack:** JavaScript, HTML, CSS
 
 ### 🏋️ [Fit Fusion](https://github.com/Gaurang-Pandey/Fit-Fusion)  
 A fitness app that helps users achieve their health goals with personalized workout plans.  
-**Tech Stack:** React, JavaScript  
+**Tech Stack:** React, JavaScript
 
 ---
 
 ## 🏆 Achievements  
 - **LeetCode Contest Rating:** 1,802  
 - **Meta Hacker Cup Round 1 Rank:** 7,571  
-- **Certified by Infosys Spring Board & Coursera**  
+- **Certified by Infosys Spring Board & Coursera**
 
 ---
 
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaurang-pandey-3a0349257/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Gaurang-Pandey)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Gaurang-Pandey)
 
 💡 Always open to collaborations and learning new things! Feel free to check out my work and connect. 🚀
