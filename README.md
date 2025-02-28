@@ -22,6 +22,8 @@ I'm a passionate developer who loves building scalable applications and solving 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -48,17 +50,34 @@ I'm a passionate developer who loves building scalable applications and solving 
 ---
 
 ## 🚀 Projects  
+
 ### 🛵 [Go Food](https://github.com/Gaurang-Pandey/GoFood)  
 A dynamic food delivery app with personalized recommendations.  
-**Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white), ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+---
 
 ### 🍽 [Eatables](https://github.com/Gaurang-Pandey/Eatables)  
 A recipe discovery website with powerful search and filtering options.  
-**Tech Stack:** JavaScript, HTML, CSS
+
+**Tech Stack:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+---
 
 ### 🏋️ [Fit Fusion](https://github.com/Gaurang-Pandey/Fit-Fusion)  
 A fitness app that helps users achieve their health goals with personalized workout plans.  
-**Tech Stack:** React, JavaScript
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
@@ -70,8 +89,8 @@ A fitness app that helps users achieve their health goals with personalized work
 ---
 
 ## 📫 Let's Connect  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaurangpandey04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaurang-pandey-3a0349257/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Gaurang-Pandey)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaurangpandey04@gmail.com)
 
 💡 Always open to collaborations and learning new things! Feel free to check out my work and connect. 🚀
