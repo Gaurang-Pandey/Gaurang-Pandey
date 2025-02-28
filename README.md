@@ -50,7 +50,7 @@ I'm a passionate developer who loves building scalable applications and solving 
 ## 🚀 Projects  
 ### 🛵 [Go Food](https://github.com/Gaurang-Pandey/GoFood)  
 A dynamic food delivery app with personalized recommendations.  
-**Tech Stack:** React, JavaScript, Node.js, MongoDB
+**Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white), ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 ### 🍽 [Eatables](https://github.com/Gaurang-Pandey/Eatables)  
 A recipe discovery website with powerful search and filtering options.  
